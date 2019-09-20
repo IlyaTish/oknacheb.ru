@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="63.8969mm" height="39.3441mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3818.43 2351.18"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#D4EDFC}
+    .fil0 {fill:#BCE3F9}
+   ]]>
+  </style>
+    <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="-3728.26" y1="6563.41" x2="12536.02" y2="1352.35">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id1)" x="2555.25" y="716.63" width="1263.33" height="1634.69"/>
+    </mask>
+    <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="-5459.27" y1="5788.06" x2="10895.16" y2="108.18">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id3)" x="698.91" y="1043.13" width="1876.87" height="1308.19"/>
+    </mask>
+    <mask id="id4">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="-2303.79" y1="5499.56" x2="9146.12" y2="-180.32">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id5)" x="1897.1" y="302.61" width="1407.72" height="1407.72"/>
+    </mask>
+    <mask id="id6">
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="-5351.08" y1="4327.52" x2="10660.75" y2="1388.41">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id7)" x="-0.15" y="1335.02" width="1317.76" height="1016.31"/>
+    </mask>
+    <mask id="id8">
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="-3061.1" y1="7194.5" x2="12319.64" y2="649.12">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id9)" x="2509.16" y="-0.15" width="1309.42" height="1876.86"/>
+    </mask>
+    <mask id="id10">
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" x1="-4846.2" y1="6347.03" x2="11832.79" y2="288.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id11)" x="1560.68" y="518.16" width="2257.9" height="1833.16"/>
+    </mask>
+    <mask id="id12">
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="-2231.66" y1="7375.26" x2="12499.95" y2="-107.75">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id13)" x="3465.6" y="424.22" width="352.99" height="705.67"/>
+    </mask>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2416068796624">
+   <polygon class="fil0" style="mask:url(#id0)" points="2555.4,1979.82 3818.43,716.78 3818.43,2351.18 2926.76,2351.18 "/>
+   <polygon class="fil1" style="mask:url(#id2)" points="699.06,1981.56 1637.34,1043.28 2575.63,1981.56 2206.02,2351.18 1068.68,2351.18 "/>
+   <polygon class="fil1" style="mask:url(#id4)" points="1897.25,1006.47 2600.96,302.76 3304.67,1006.47 2600.96,1710.18 "/>
+   <polygon class="fil1" style="mask:url(#id6)" points="-0,1993.9 658.74,1335.17 1317.47,1993.9 960.19,2351.18 357.28,2351.18 "/>
+   <polygon class="fil0" style="mask:url(#id8)" points="2509.31,938.28 3447.58,0 3818.43,370.85 3818.43,1505.71 3447.58,1876.56 "/>
+   <polygon class="fil0" style="mask:url(#id10)" points="1560.83,2030.12 3072.64,518.31 3818.43,1264.11 3818.43,2351.18 1881.88,2351.18 "/>
+   <polygon class="fil1" style="mask:url(#id12)" points="3465.75,777.05 3818.43,424.37 3818.43,1129.74 "/>
+  </g>
+ </g>
+</svg>
