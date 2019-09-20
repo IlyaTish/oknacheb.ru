@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="56.8865mm" height="7.8338mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 232.71 32.05" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <rect x="109.99" y="1.02" width="122.72" height="27.84"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="51.84" width="51.18" height="32.05"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect y="0.1" width="51.18" height="29.66"/>
+   </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="109.99" y="1.02" width="122.72" height="27.84" xlink:href="payments_Images\payments_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="51.84" y="0" width="51.18" height="32.05" xlink:href="payments_Images\payments_ImgID2.png"/>
+  </g>
+  <g style="clip-path:url(#id2)">
+   <image x="-0" y="0.1" width="51.18" height="29.66" xlink:href="payments_Images\payments_ImgID3.png"/>
+  </g>
+ </g>
+</svg>
