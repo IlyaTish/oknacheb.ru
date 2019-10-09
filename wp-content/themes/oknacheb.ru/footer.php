@@ -2,15 +2,6 @@
       <script type="text/javascript" data-src="https://vk.com/js/api/openapi.js?159"></script>
 
       <div class="wrapper">
-<!--         <div class="vk">
-          <span class="vk__heading">наша официальная группа VK</span>
-        
-          <div id="vk_groups1" class="vk1"></div>
-          <script type="text/javascript">
-          VK.Widgets.Group("vk_groups1", {mode: 3, width: "300"}, 93694874);
-          </script>
-        </div> -->
-
         <div class="feedback">
           <p class="feedback__p">Нам важно что вы думаете. Если у вас <span class="bold">возникли вопросы,</span> пожелания или недовольства или вы хотите <span class="bold">оставить отзыв</span> пишите сюда! Нам Важны ваши чувства!</p>
           <div class="feedback__wrap">

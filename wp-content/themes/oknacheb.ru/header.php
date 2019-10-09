@@ -417,7 +417,7 @@
           <img class="header__skidka" data-src="<?php echo bloginfo("template_url"); ?>/img/flazhok.png" alt="Скидка на окна и балконы 50%" title="Скидка на окна и балконы 50%">
 
           <div class="swiper-wrapper">
-            <div class="swiper-slide">
+            <div class="header__img swiper-slide">
               <img class="header__img swiper-lazy" data-src="<?php echo bloginfo("template_url"); ?>/img/okna-v-cheboksarah01.jpg" alt="Монтаж, установка окон в Чебоксарах" title="Монтаж, установка окон в Чебоксарах">
               <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
             </div>

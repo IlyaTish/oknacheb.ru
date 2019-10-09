@@ -341,6 +341,29 @@
           </div>
         </div>
 
+        <div class="feedback">
+          <p class="feedback__p">Нам важно что вы думаете. Если у вас <span class="bold">возникли вопросы,</span> пожелания или недовольства или вы хотите <span class="bold">оставить отзыв</span> пишите сюда! Нам Важны ваши чувства!</p>
+          <div class="feedback__wrap">
+            <img class="feedback__img" data-src="<?php echo bloginfo("template_url"); ?>/img/lion-02.png" alt="Лев ЛЕГОС" title="Задайте нам вопрос">
+            <form class="feedback__form form">
+              <!-- Hidden Required Fields -->
+              <input type="hidden" name="project_name" value="oknacheb.ru">
+              <input type="hidden" name="admin_email" value="dukaty1013@yandex.ru">
+              <input type="hidden" name="form_subject" value="Заявка с главной страницы (форма обратной связи)">
+              <!-- END Hidden Required Fields -->
+              <div class="input-wrap">
+                <span class="feedback__input-title">Ваше имя:</span>
+                <input type="text" class="feedback__input" placeholder="Имя">
+              </div>
+              <div class="input-wrap">
+                <span class="feedback__input-title">Задайте вопрос:</span>
+                <textarea class="feedback__text" name="Сообщение"></textarea>
+              </div>
+              <button class="feedback__btn button" type="submit">ОТПРАВИТЬ</button>
+            </form>
+          </div>
+        </div>
+
         <div class="balkony_offer">
           <h4 class="balkony_offer__heading">Раздвижное остекление балконов</h4>
           <img data-src="<?php echo bloginfo("template_url"); ?>/img/akciya-na-okno01.png" alt="Акция на окна 'Легос'" title="Акция на окна 'Легос'">
@@ -474,32 +497,6 @@
         </div>
       </div>
     </div>
-
-<!--     <section class="main_gallery_section">
-      <div class="swiper_slider3">
-      <a id="popup_gallery_init" class="popup_gallery mfp-gallery" href="">Работы <b>"вживую"</b></a>
-        <div class="swiper-container s3">
-          <div class="swiper-wrapper">
-            <?php
-              $secondHomePageGallery = new WP_Query(array(
-                'posts_per_page' => 20,
-                'order'          => 'ASC',
-                'post_type'      => 'second-home-gallery'
-              ));
-
-              while($secondHomePageGallery->have_posts()) {
-                $secondHomePageGallery->the_post(); ?>
-                <div class="swiper-slide">
-                  <?php the_content(); ?>
-                </div>
-              <?php }
-            ?>
-          </div>
-        </div>
-        <div class="swiper-button-prev swiper-button-prev--first"></div>
-        <div class="swiper-button-next swiper-button-next--first"></div>
-      </div>
-    </section> -->
 
     <section class="about_company_section">
       <span class="about_company_section__heading"><b>Легос™</b>. Окна в Чебоксарах от надежного производителя.</span>
@@ -646,39 +643,6 @@
         </div>
       </div>
     </section>
-
-<!--     <section class="legos_articles">
-      <h2 class="video_review__title video_review__title--second">Все вопросы об окнах. Блог ЛЕГОС ›</h2>
-      <div class="swiper-container s5">
-        <div class="swiper-wrapper">
-          <?php
-          $homePagePosts = new WP_Query(array(
-            'posts_per_page' => 6
-          ));
-
-          while ($homePagePosts->have_posts()) {
-            $homePagePosts->the_post(); ?>
-
-            <a href="<?php the_permalink(); ?>" class="video_review__link swiper-slide">
-              <div class="video_review__img video_review__img--article">
-                <?php the_post_thumbnail(); ?>
-              </div>
-              <div class="video_review__desc">
-                <span class="video_review__tag">статья блога</span>
-                <h3 class="video_review__h"><?php the_title(); ?></h3>
-                <div class="video_review__metabox">
-                  <div class="meta_container">
-                    <span class="date"><?php the_time('d F Y'); ?></span>
-                    <span class="views"><i class="fas fa-eye"></i> <?php do_action( 'pageviews' ); ?></span>
-                  </div>
-                </div>
-              </div>
-            </a>
-          <?php }
-          ?>
-        </div>
-      </div>
-    </section> -->
 
     <section class="about_compsany_section2">
       <h3 class="about_company_section2__heading">Спасибо за доверие!</h3>
