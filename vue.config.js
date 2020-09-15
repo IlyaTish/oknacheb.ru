@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: ‘/oknacheb.ru/’
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/oknacheb.ru/'
+    : '/'
 }

@@ -5,6 +5,7 @@
 const path = require('path')
 
 module.exports = {
+  publicPath: '/oknacheb.ru/',
   dev: {
 
     // Paths
